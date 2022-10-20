@@ -1,0 +1,55 @@
+.container-row {
+    margin-top: 60px;
+}
+
+input[type="text"]{
+    background: none;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+/*
+label {
+    position: absolute;
+    left: 0px;
+    pointer-events: none;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+/**** ---hover do input ***/
+/*
+input:hover {
+    background: none;
+    border: none;
+    border-bottom: 0.2rem solid #981d97;
+    transition: all 0.3 ease;
+}
+
+
+input[type="text"] {
+    background: none;
+    border: none;
+    border-bottom: 0.2rem solid #811a80;
+    transition: all 0.3 ease;
+}
+
+
+input:focus~label,
+input:valid~label {
+    transform: translateY(-2.3rem);
+    font-size: 1.4rem;
+    background-color: red;
+
+}
+
+
+*/
+select{
+padding: 10px;
+    background: none;
+    font-size: 18px;
+}
+
